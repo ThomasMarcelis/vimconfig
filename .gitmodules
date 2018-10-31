@@ -1,0 +1,9 @@
+[submodule "vim-markdown"]
+	path = vim-markdown
+	url = https://github.com/gabrielelana/vim-markdown.git
+[submodule "vim-elasticsearch"]
+	path = vim-elasticsearch
+	url = https://github.com/MorganPeterson/vim-elasticsearch.git
+[submodule "logstash.vim"]
+	path = logstash.vim
+	url = https://github.com/robbles/logstash.vim.git
